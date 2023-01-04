@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="testngTest(failed)">
+    <classes>
+      <class name="testng.auto.suite.Waits">
+        <methods>
+          <include name="implicitWait"/>
+          <include name="before"/>
+          <include name="close"/>
+          <include name="fluenttWait"/>
+        </methods>
+      </class> <!-- testng.auto.suite.Waits -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [TestNG] -->
