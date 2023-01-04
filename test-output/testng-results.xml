@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2853" started-at="2022-12-27T09:16:48 COT" finished-at="2022-12-27T09:16:51 COT">
+  <suite name="Default suite" duration-ms="3004" started-at="2023-01-04T16:37:39 COT" finished-at="2023-01-04T16:37:42 COT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2853" started-at="2022-12-27T09:16:48 COT" finished-at="2022-12-27T09:16:51 COT">
+    <test name="Default test" duration-ms="3004" started-at="2023-01-04T16:37:39 COT" finished-at="2023-01-04T16:37:42 COT">
       <class name="testng.auto.suite.DockerTest">
-        <test-method status="PASS" signature="before()[pri:0, instance:testng.auto.suite.DockerTest@51e2adc7]" name="before" is-config="true" duration-ms="3374" started-at="2022-12-27T09:16:44 COT" finished-at="2022-12-27T09:16:48 COT">
+        <test-method status="PASS" signature="before()[pri:0, instance:testng.auto.suite.DockerTest@42f93a98]" name="before" is-config="true" duration-ms="3808" started-at="2023-01-04T16:37:35 COT" finished-at="2023-01-04T16:37:39 COT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="testOneDocker()[pri:0, instance:testng.auto.suite.DockerTest@51e2adc7]" name="testOneDocker" duration-ms="2825" started-at="2022-12-27T09:16:48 COT" finished-at="2022-12-27T09:16:51 COT">
+        <test-method status="PASS" signature="testOneDocker()[pri:0, instance:testng.auto.suite.DockerTest@42f93a98]" name="testOneDocker" duration-ms="2953" started-at="2023-01-04T16:37:39 COT" finished-at="2023-01-04T16:37:42 COT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOneDocker -->
-        <test-method status="PASS" signature="close()[pri:0, instance:testng.auto.suite.DockerTest@51e2adc7]" name="close" is-config="true" duration-ms="126" started-at="2022-12-27T09:16:51 COT" finished-at="2022-12-27T09:16:51 COT">
+        <test-method status="PASS" signature="close()[pri:0, instance:testng.auto.suite.DockerTest@42f93a98]" name="close" is-config="true" duration-ms="78" started-at="2023-01-04T16:37:42 COT" finished-at="2023-01-04T16:37:42 COT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
